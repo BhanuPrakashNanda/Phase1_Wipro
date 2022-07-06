@@ -1,2 +1,2 @@
 # Phase1_Wipro
-Repo for assignments for Wipro Phase1
+Repo for assignments for Wipro Projects
