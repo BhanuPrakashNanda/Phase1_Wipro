@@ -1,4 +1,4 @@
 From openjdk:8
-EXPOSE 8080
-ADD target/springdocker-0.0.1-SNAPSHOT.jar springdocker-0.0.1-SNAPSHOT.jar
-ENTRYPOINT ["java","-jar","/springdocker-0.0.1-SNAPSHOT.jar"]
+EXPOSE 8081
+Add target/spring-boot-docker-mysql.war medicare.war
+ENTRYPOINT ["java","-jar","/medicare.war"]
