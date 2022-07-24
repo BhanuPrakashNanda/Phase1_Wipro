@@ -1,5 +1,5 @@
 
-  package com.example.healthcare;
+  /*package com.example.healthcare;
   
   
   import org.openqa.selenium.By;
@@ -48,5 +48,5 @@ import
   
   //close the browser wd.close();
   
-  } }
+  } }*/
  
